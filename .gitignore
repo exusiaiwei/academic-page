@@ -1,0 +1,20 @@
+# Hugo output directory
+/public/
+
+# Hugo cache directory
+/resources/
+
+# Hugo generated files
+/resources/_gen/
+
+# Hugo server files
+/resources/_server/
+
+# Hugo temporary files
+/resources/_tmp/
+
+# Hugo logs
+/resources/_logs/
+
+# Hugo cache files
+/resources/_cache/

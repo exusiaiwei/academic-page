@@ -19,12 +19,12 @@ sections:
         #text: Download CV
         #url: uploads/resume.pdf
     design:
-      css_class: light
+      css_class: dark
       background:
-        color: black
+        color: light
         image:
           # Add your image background to `assets/media/`.
-          filename: background.jpg
+          filename: stacked-peaks.svg
           filters:
             brightness: 1.0
           size: cover
@@ -35,11 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+        I am a Master's student at Saarland University, Germany. My research interests include Quantitative Linguistics, Computational Linguistics, and Psycholinguistics (Eye-tracking). I am particularly interested in the application of computational methods to study the current state and mechanisms of language, from both a social and biological perspective.
     design:
       columns: '1'
   - block: collection

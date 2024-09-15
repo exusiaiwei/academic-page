@@ -125,12 +125,12 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-#awards:
-#  - title: Blockchain Fundamentals
-#    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-#    date: '2023-07-01'
-#    awarder: edX
-#    icon: edx
+awards:
+  - title: "Data Science: R Basics"
+    url: https://courses.edx.org/certificates/27870bed2784425584b50c84632e6a3e
+    date: '2024-09-15'
+    awarder: edX
+    icon: edx
 #    summary: |
 #      Learned:
 #      - Synthesize your own blockchain solutions
